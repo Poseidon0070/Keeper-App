@@ -1,0 +1,19 @@
+form {
+    padding: 20px;
+    border-radius: 4px;
+}
+
+input, textarea {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background: transparent;
+    outline: none;
+}
+
+textarea {
+    resize: none; /* Disable textarea resizing */
+}
